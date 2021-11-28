@@ -1,20 +1,20 @@
 [
   {
-    "name": "Spotlight",
+    "name": "Spotlight API",
     "url": "https://spotlight-staging.mirai-chi.com/users",
     "icon": "https://favicons.githubusercontent.com/spotlight-staging.mirai-chi.com",
-    "slug": "spotlight",
+    "slug": "spotlight-api",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 903,
-    "timeDay": 903,
-    "timeWeek": 903,
-    "timeMonth": 903,
-    "timeYear": 903,
+    "time": 950,
+    "timeDay": 950,
+    "timeWeek": 950,
+    "timeMonth": 950,
+    "timeYear": 950,
     "dailyMinutesDown": {}
   }
 ]
